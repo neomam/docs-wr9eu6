@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-91unmx.biggamingwin.xyz/sitemap.xml
